@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-image: url("project_background.jpeg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+canvas{
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+h1{
+    font-weight: bold;
+}
